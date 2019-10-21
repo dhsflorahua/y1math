@@ -9,7 +9,7 @@ Current topics:
 - Primes, Highest Common Factor and Lowest Common Multiple
 - Number Patterns
 
-Please contribute! Submit pull requests for
+Please contribute!! Submit pull requests for
 - problems without solutions
 - problems with incomplete/partial solutions
 - problems with alternative solutions (yes sometimes there are more than one way to solve a problem and we really welcome them!)
@@ -17,4 +17,3 @@ Please contribute! Submit pull requests for
 - anything you feel this repository can be improved
 
 Note: Do not simply copy and paste text/code from other sites. Inappropriate pull requests will be marked as invalid and rejected.
-Enjoy! :)
